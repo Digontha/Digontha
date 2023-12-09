@@ -11,11 +11,16 @@
 
 [![My Skills](https://skillicons.dev/icons?i=react,js,express,nodejs,mongodb,firebase,html,css,tailwind&theme=light)](https://skillicons.dev)
 
+</div>
 
 ## Streak Stats⭐
+
+<div align="center">
+
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Digontha&theme=dracula)](https://git.io/streak-stats)
 
 </div>
+
 
 
 
