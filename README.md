@@ -4,12 +4,12 @@
 
   <h1 align="center">
     <pre>
-    ██╗   ██╗███████╗██████╗       █████╗ ███████╗███████╗███████╗██████╗
-    ██║   ██║██╔════╝██╔══██╗     ██╔══██╗██╔════╝██╔════╝██╔════╝██╔══██╗
-    ██║   ██║███████╗██████╔╝     ███████║███████╗███████╗█████╗  ██║  ██║
-    ██║   ██║╚════██║██╔══██╗     ██╔══██║╚════██║╚════██║██╔══╝  ██║  ██║
-    ╚██████╔╝███████║██████╔╝     ██║  ██║███████║███████║███████╗██████╔╝
-     ╚═════╝ ╚══════╝╚═════╝      ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝╚═════╝
+    ███╗   ███╗██╗███╗   ██╗███████╗██╗  ██╗███████╗███████╗███████╗
+    ████╗ ████║██║████╗  ██║██╔════╝██║  ██║██╔════╝██╔════╝██╔════╝
+    ██╔████╔██║██║██╔██╗ ██║███████╗███████║█████╗  ███████╗███████╗
+    ██║╚██╔╝██║██║██║╚██╗██║╚════██║██╔══██║██╔══╝  ╚════██║╚════██║
+    ██║ ╚═╝ ██║██║██║ ╚████║███████║██║  ██║███████╗███████║███████║
+    ╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝
     </pre>
   </h1>
 
@@ -17,13 +17,16 @@
     <i>Building Scalable Web Applications | MERN Stack Specialist | Performance-Driven Developer</i>
   </h3>
 
-  <div align="center">
+<div align="center">
+  
+  <a href="mailto:digonthadas44@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/digontha-das-04a1562a5/)">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 
-    [![Gmail](https://img.shields.io/badge/Email-Digontha-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:digonthadas44@gmail.com)
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/digontha-das-04a1562a5/)
-    [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Digontha)
-
-  </div>
+</div>
 
 </div>
 
@@ -48,21 +51,24 @@ I specialize in building **scalable SaaS products** and **user-centric web appli
 
 <div align="center">
 
-  ### Frontend Development
-  [![React](https://img.shields.io/badge/React-Expert-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
-  [![Next.js](https://img.shields.io/badge/Next.js-Advanced-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-  [![TypeScript](https://img.shields.io/badge/TypeScript-Proficient-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-  [![Tailwind CSS](https://img.shields.io/badge/Tailwind-Skilled-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+### Frontend Development
 
-  ### Backend Development
-  [![Node.js](https://img.shields.io/badge/Node.js-Expert-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-  [![Express.js](https://img.shields.io/badge/Express-Advanced-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
-  [![MongoDB](https://img.shields.io/badge/MongoDB-Proficient-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![React](https://img.shields.io/badge/React-Expert-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
+[![Next.js](https://img.shields.io/badge/Next.js-Advanced-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-Proficient-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-Skilled-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-  ### State & Data Management
-  [![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-Skilled-593D88?style=flat-square&logo=redux&logoColor=white)](https://redux-toolkit.js.org/)
-  [![React Query](https://img.shields.io/badge/React_Query-Advanced-FF4154?style=flat-square&logo=reactquery&logoColor=white)](https://tanstack.com/query/latest)
-  [![REST APIs](https://img.shields.io/badge/API_Design-Expert-005571?style=flat-square&logo=postman&logoColor=white)]()
+### Backend Development
+
+[![Node.js](https://img.shields.io/badge/Node.js-Expert-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Express-Advanced-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-Proficient-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+
+### State & Data Management
+
+[![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-Skilled-593D88?style=flat-square&logo=redux&logoColor=white)](https://redux-toolkit.js.org/)
+[![React Query](https://img.shields.io/badge/React_Query-Advanced-FF4154?style=flat-square&logo=reactquery&logoColor=white)](https://tanstack.com/query/latest)
+[![REST APIs](https://img.shields.io/badge/API_Design-Expert-005571?style=flat-square&logo=postman&logoColor=white)]()
 
 </div>
 
@@ -80,14 +86,14 @@ I specialize in building **scalable SaaS products** and **user-centric web appli
 
 ### Core Technologies
 
-| Category | Tools & Frameworks |
-|:--------:|:------------------|
-| **Frontend** | React, Next.js, TypeScript, Tailwind CSS, ShadCN UI |
-| **Backend** | Node.js, Express.js, REST APIs |
-| **Database** | MongoDB, Mongoose |
-| **State Management** | Redux Toolkit, React Query, Context API |
-| **Authentication** | JWT, OAuth, Firebase Auth |
-| **DevOps & Tools** | Git, GitHub, Postman, Vercel |
+|       Category       | Tools & Frameworks                                  |
+| :------------------: | :-------------------------------------------------- |
+|     **Frontend**     | React, Next.js, TypeScript, Tailwind CSS, ShadCN UI |
+|     **Backend**      | Node.js, Express.js, REST APIs                      |
+|     **Database**     | MongoDB, Mongoose                                   |
+| **State Management** | Redux Toolkit, React Query, Context API             |
+|  **Authentication**  | JWT, OAuth, Firebase Auth                           |
+|  **DevOps & Tools**  | Git, GitHub, Postman, Vercel                        |
 
 ---
 
@@ -114,7 +120,7 @@ I specialize in building **scalable SaaS products** and **user-centric web appli
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Digontha&layout=compact&theme=dracula&hide_border=true&card_width=480" alt="Top Languages" width="48%"/>
   </a>
 
-  <br/><br/>
+<br/><br/>
 
   <!-- GitHub Stats -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -138,15 +144,17 @@ I specialize in building **scalable SaaS products** and **user-centric web appli
 <details align="center">
   <summary><b>🎁 Click to expand</b></summary>
 
-  ### 🚀 [Project One](link) – *Brief description*
-  - **Tech Stack:** React, Node.js, MongoDB
-  - **Features:** Feature 1, Feature 2, Feature 3
+### 🚀 [Project One](link) – _Brief description_
+
+- **Tech Stack:** React, Node.js, MongoDB
+- **Features:** Feature 1, Feature 2, Feature 3
 
   <br/>
 
-  ### 🔥 [Project Two](link) – *Brief description*
-  - **Tech Stack:** Next.js, TypeScript, Tailwind
-  - **Features:** Feature 1, Feature 2, Feature 3
+### 🔥 [Project Two](link) – _Brief description_
+
+- **Tech Stack:** Next.js, TypeScript, Tailwind
+- **Features:** Feature 1, Feature 2, Feature 3
 
 </details>
 
@@ -156,17 +164,17 @@ I specialize in building **scalable SaaS products** and **user-centric web appli
 
 <div align="center">
 
-  I'm always open to discussing **new projects**, **creative ideas**, or **opportunities** to be part of your vision.
+I'm always open to discussing **new projects**, **creative ideas**, or **opportunities** to be part of your vision.
 
   <br/>
 
-  [![Email](https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:digonthadas44@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/digontha-das-04a1562a5/)
-  [![GitHub](https://img.shields.io/badge/👨‍💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Digontha)
+[![Email](https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:digonthadas44@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/digontha-das-04a1562a5/)
+[![GitHub](https://img.shields.io/badge/👨‍💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Digontha)
 
-  <br/><br/>
+<br/><br/>
 
-  <i>⭐ Feel free to star my repos – it helps!</i>
+<i>⭐ Feel free to star my repos – it helps!</i>
 
 </div>
 
@@ -174,7 +182,7 @@ I specialize in building **scalable SaaS products** and **user-centric web appli
 
 <div align="center">
 
-  **Built with ❤️ and lots of ☕ by [Digontha](https://github.com/Digontha)**
+**Built with ❤️ and lots of ☕ by [Digontha](https://github.com/Digontha)**
 
   <br/>
 
